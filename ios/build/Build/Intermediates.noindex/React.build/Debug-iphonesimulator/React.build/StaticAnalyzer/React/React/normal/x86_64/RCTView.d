@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Views/RCTView.m \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Views/RCTView.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Views/RCTBorderDrawing.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/yuanyu90221/binanceTracker/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/yuanyu90221/binanceTracker/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/yuanyu90221/binanceTracker/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/yuanyu90221/binanceTracker/node_modules/react-native/React/Modules/RCTI18nUtil.h
